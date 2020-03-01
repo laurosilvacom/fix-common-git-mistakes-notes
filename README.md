@@ -8,7 +8,7 @@ If you notice areas that could be improved please feel free to open a PR!
 
 - 🎨These notes use the [Night Owl Theme](https://github.com/sdras/night-owl-vscode-theme) color palette.
 
-- 📄[Download](<(https://github.com/laurosilvacom/fix-common-git-mistakes-notes/raw/master/Notes.pdf)>) a PDF copy here!.
+- 📄[Download](https://github.com/laurosilvacom/fix-common-git-mistakes-notes/raw/master/Notes.pdf) a PDF copy here!.
 
 - 🗂Checkout the Sketch [files](https://github.com/laurosilvacom/fix-common-git-mistakes-notes/raw/master/Notes.sketch) here.
 
