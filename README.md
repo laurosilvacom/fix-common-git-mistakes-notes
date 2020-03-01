@@ -2,6 +2,8 @@
 
 These notes are intended to be used and studied in tandem with [Chris Achard](https://egghead.io/instructors/chris-achard)'s [course](https://egghead.io/courses/fix-common-git-mistakes). If you notice areas that could be improved please feel free to open a PR!
 
+![img](./cover.png)
+
 Download a PDF copy here! Enjoy!
 
 ## Course Summary
@@ -15,7 +17,7 @@ Download a PDF copy here! Enjoy!
 
 ## Original Code Snippets
 
-### 1.Change a Commit Message that Hasn't Been Pushed Yet
+### 1. Change a Commit Message that Hasn't Been Pushed Yet
 
 ```bash
 git commit --amend -m "New message"
@@ -223,5 +225,6 @@ git rebase -i HEAD~3
 # prune the entire history and garbage collect the remains
 git reflog expire --expire=now --all && git gc --prune=now --aggressive
 
-#  use git push to push that change to github, and remove the .env file from all of the history
+#  use git push to push that change to github,
+# and remove the .env file from all of the history
 ```
