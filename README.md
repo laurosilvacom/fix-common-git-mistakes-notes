@@ -1,10 +1,16 @@
 # Fix Common Git Mistakes
 
-These notes are intended to be used and studied in tandem with [Chris Achard](https://egghead.io/instructors/chris-achard)'s [course](https://egghead.io/courses/fix-common-git-mistakes). If you notice areas that could be improved please feel free to open a PR!
+These notes are intended to be used and studied in tandem with [Chris Achard](https://egghead.io/instructors/chris-achard)'s [course](https://egghead.io/courses/fix-common-git-mistakes).
 
-![img](./cover.png)
+If you notice areas that could be improved please feel free to open a PR!
 
-Download a PDF copy here! Enjoy!
+![cover](./cover.png)
+
+- 🎨These notes use the [Night Owl Theme](https://github.com/sdras/night-owl-vscode-theme) color palette.
+
+- 📄[Download](<(https://github.com/laurosilvacom/fix-common-git-mistakes-notes/raw/master/Notes.pdf)>) a PDF copy here!.
+
+- 🗂Checkout the Sketch [files](https://github.com/laurosilvacom/fix-common-git-mistakes-notes/raw/master/Notes.sketch) here.
 
 ## Course Summary
 
